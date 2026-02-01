@@ -5,9 +5,9 @@
 ## Alumno: Alejandro Montiel 
 ## Profesor: Alan Badillo Salas 
 
-# Descricion
+## Descripcion
 
 En esta practica se utilizo una de las principales herramientas utilizadas en machine learning el cual es github, el cual nos permite el control de los cambios, ademas de permitir la colaboracion de diferentes usuarios en el mismo proyecto.  
 
 
-#### Febrero, 2026. 
+###### Febrero, 2026. 
