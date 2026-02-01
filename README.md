@@ -37,7 +37,6 @@ Una vez realizado el programa se procede a confirmar todos los datos en el repos
 
 - Grafica entre la variable informativa y variable de respuesta. Ajuste de la curva 
 
-![plot_titanic](grafica titanic.png)
-
+![plo](graficatitanic.png)
 
 ###### Febrero, 2026. 
